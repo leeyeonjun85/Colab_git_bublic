@@ -1,2 +1,2 @@
-# csai
-codestates AI bootcamp 17th
+# Leeyeonjun's Colab Notebooks
+- This is Leeyeonjun's Colab Notebooks
